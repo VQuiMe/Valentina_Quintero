@@ -1,4 +1,4 @@
-# Valentin_ Quintero
+# Valentina Quintero
 
 <h1 align="center">Hi 👋, I'm Valentina Quintero</h1>
 <h3 align="center">A passionate full stack developer from Colombia.</h3>
